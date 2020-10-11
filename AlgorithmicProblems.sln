@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmicProblems.Implementation", "AlgorithmicProblems.Implementation\AlgorithmicProblems.Implementation.csproj", "{14ACE945-9BE7-415E-B004-64C688D4565E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmicProblems.Tests", "AlgorithmicProblems.Tests\AlgorithmicProblems.Tests.csproj", "{063F0F5A-4221-4E90-82FA-85B8AD4337AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14ACE945-9BE7-415E-B004-64C688D4565E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14ACE945-9BE7-415E-B004-64C688D4565E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14ACE945-9BE7-415E-B004-64C688D4565E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14ACE945-9BE7-415E-B004-64C688D4565E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{063F0F5A-4221-4E90-82FA-85B8AD4337AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{063F0F5A-4221-4E90-82FA-85B8AD4337AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{063F0F5A-4221-4E90-82FA-85B8AD4337AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{063F0F5A-4221-4E90-82FA-85B8AD4337AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

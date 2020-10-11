@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace AlgorithmicProblems.Implementation.Strings
+namespace AlgorithmicProblems.Implementation.Arrays
 {
     /// <summary>
     /// 1.3 Write a method to replace all spaces in input with '%20' in place.

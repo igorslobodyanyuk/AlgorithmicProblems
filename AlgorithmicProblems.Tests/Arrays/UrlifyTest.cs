@@ -1,7 +1,7 @@
-using AlgorithmicProblems.Implementation.Strings;
+using AlgorithmicProblems.Implementation.Arrays;
 using Xunit;
 
-namespace AlgorithmicProblems.Tests.Strings
+namespace AlgorithmicProblems.Tests.Arrays
 {
     public class UrlifyTest
     {

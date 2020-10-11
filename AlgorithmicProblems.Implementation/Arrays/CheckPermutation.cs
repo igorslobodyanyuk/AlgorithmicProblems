@@ -1,7 +1,6 @@
 using System.Collections.Generic;
-using System.Text;
 
-namespace AlgorithmicProblems.Implementation.Strings
+namespace AlgorithmicProblems.Implementation.Arrays
 {
     /// <summary>
     /// 1.2 Decide if one string is permutation of other

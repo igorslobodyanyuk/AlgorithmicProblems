@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace AlgorithmicProblems.Implementation.Strings
+namespace AlgorithmicProblems.Implementation.Arrays
 {
     /// <summary>
     /// 1.1 
